@@ -1,6 +1,6 @@
 ##Frogger
 
-You can view this game here http://aimanaijaz.github.io/frogger/  
+You can view this game here http://aimanaijaz.github.io/frogger-game/  
 
 ## How to run?
 Click on the link to the github repository https://github.com/aimanaijaz/frogger-game and Download the zip file.  
