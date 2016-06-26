@@ -8,8 +8,7 @@ Extract the files.
 Open the file index.html in a web browser that supports HTML5 and Javascript.  
 
 ##How to play?  
--The player must avoid all the bugs and reach the center stone block (3rd) of the last stone block row (just below water blocks)  to win the game.  
--Reaching this block resets the game and brings back the player to its starting position.  
+-The player must avoid all the bugs and collect the star to win the game.     
 -If the player collides with a bug, He is sent back to the starting position.  
 -The player cannot move on the water blocks.  
 
