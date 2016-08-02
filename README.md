@@ -1,5 +1,5 @@
 ##Frogger
-
+Developed a basic Frogger game using object oriented programming concepts.   
 You can view this game here http://aimanaijaz.github.io/frogger-game/  
 
 ## How to run?
